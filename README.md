@@ -3,7 +3,7 @@
 
 To perform Data preprocessing in a data set downloaded from Kaggle
 
-##REQUIPMENTS REQUIRED:
+## REQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
@@ -23,7 +23,7 @@ For achieving better results from the applied model in Machine Learning projects
 Another aspect is that the data set should be formatted in such a way that more than one Machine Learning and Deep Learning algorithm are executed in one data set, and best out of them is chosen.
 
 
-##ALGORITHM:
+## ALGORITHM:
 
 Importing the libraries
 
@@ -37,7 +37,7 @@ Normalizing the data
 
 Splitting the data into test and train
 
-##PROGRAM:
+## PROGRAM:
 ```
 Developed by: sneha.M
 Register No: 212219220048.
